@@ -1,0 +1,16 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "arbetssatt",
+  "description": "Beskriv ditt arbetssätt med Claude Code efter en fast mall, byt porträtt med någon och se vad ni kan låna av varandra.",
+  "owner": {
+    "name": "Felix Sjöstedt"
+  },
+  "plugins": [
+    {
+      "name": "arbetssatt",
+      "description": "Skriver ett porträtt av hur du arbetar med Claude Code, i en fil du kan skicka till någon annan.",
+      "category": "productivity",
+      "source": "./"
+    }
+  ]
+}
