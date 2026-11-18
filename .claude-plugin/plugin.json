@@ -1,0 +1,8 @@
+{
+  "name": "arbetssatt",
+  "description": "Skriver ett porträtt av hur du arbetar med Claude Code, i en fil du kan skicka till någon annan.",
+  "author": {
+    "name": "Felix Sjöstedt"
+  },
+  "repository": "https://github.com/felixsjostedt/arbetssatt"
+}
